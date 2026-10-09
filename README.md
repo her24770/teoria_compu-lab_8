@@ -4,7 +4,7 @@ Teoría de la Computación — Universidad del Valle de Guatemala.
 
 ## Video de demostración
 
-> TODO: pegar aquí el enlace del video (YouTube, no listado, máximo 10 minutos).
+https://youtu.be/c4uOqGDiFTs
 
 ## Estructura
 

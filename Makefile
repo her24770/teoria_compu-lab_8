@@ -20,3 +20,5 @@ resultados: all
 
 clean:
 	rm -rf $(BIN)
+
+.PHONY: all resultados clean
